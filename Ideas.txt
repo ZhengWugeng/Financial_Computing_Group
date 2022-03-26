@@ -1,0 +1,5 @@
+https://github.com/SingingData/StockPerformanceClassification/tree/master/JupyterNotebooks
+
+https://github.com/topics/financial-portfolio-management
+
+https://github.com/josephseverino/Stock_classifier
