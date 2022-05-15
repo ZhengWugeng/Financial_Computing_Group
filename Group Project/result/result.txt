@@ -1,0 +1,6 @@
+window5epoch50  mse92.791 rmse9.633 mae7.48
+window5epoch100 mse84.992 rmse9.219 mae6,519
+window10epoch50 mse114.404 rmse10.696 mae7.663
+window10epoch100 mse133.182 rmse11.540 mae8.206
+window20epoch50 mse115.178 rmse10.732 mae7.717
+window20epoch100 mse117.007 rmse10.817 mae7.96
