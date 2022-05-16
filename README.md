@@ -1,4 +1,4 @@
-# Financial_Computing_Group
+# Financial Computing Group3 Project: Stock prediction model based on LSTM and ARIMA
 
 In the README.md, there are divided into three parts. Please read me first then run the code.
 
