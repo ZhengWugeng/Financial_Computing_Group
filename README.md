@@ -20,17 +20,17 @@ The goal is to create two syock pridiction model and make prediction on test rec
 
 Implementation  and result of LSTM and ARIMA stock prediction model in Group Project file.
 
-ARIMA_model.ipynb
+- ARIMA_model.ipynb
 
-LSTM-nvidia.ipynb
+- LSTM-nvidia.ipynb
 
 Dataset of Nvidia's stock:
 
-NVidia_stock_history.csv
+- NVidia_stock_history.csv
 
 In the result file, here is the result of LSTM model.
 
-result
+- result
 
 
 # 2. Install Versions
