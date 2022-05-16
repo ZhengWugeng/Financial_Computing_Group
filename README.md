@@ -30,7 +30,13 @@ Dataset of Nvidia's stock:
 
 In the result file, here is the result of LSTM model.
 
-- result
+- result.txt
+- window10epochs100.csv
+- window10epochs50.csv
+- window20epochs100.csv
+- window20epochs50.csv
+- window5epochs100.csv
+- window5epochs50.csv
 
 
 # 2. Install Versions
